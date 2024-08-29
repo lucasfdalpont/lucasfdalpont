@@ -2,7 +2,7 @@
 
 - Sou aluno do Curso Técnico em Informática no Colégio CEDUP Abílio Paulo de Criciúma/SC - Brasil
 - Perfil destinado a postar meus projetos na área de programação
-- Desenvolvo projetos no meu curso técnico usando linguagens como C#, Java, Javascript, PHP, MySQL, Python
+- Desenvolvo projetos no meu curso técnico usando linguagens como C#, Java, PHP, MySQL, Python
 - Estou interessado em me tornar desenvolvedor front-end, utilizando tecnologias como HTML, CSS, Javascript e Frameworks
   
 
